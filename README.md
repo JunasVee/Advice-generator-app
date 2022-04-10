@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site](https://advice-generator-huzxba1nc-xodesigns.vercel.app/
+- Live Site URL: https://advice-generator-huzxba1nc-xodesigns.vercel.app/
 
 ## My process
 
