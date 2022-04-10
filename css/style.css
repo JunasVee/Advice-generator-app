@@ -6,6 +6,12 @@ body{
 
 footer{
     height: 20px;
+    color:hsl(193, 38%, 86%);
+}
+
+a{
+    color:hsl(150, 100%, 66%);
+    text-decoration: none;
 }
 
 h1{
